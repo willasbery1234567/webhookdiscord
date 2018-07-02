@@ -1,5 +1,6 @@
 {
+  "name": "Chicken",
   "username": "Cat",
-  "content": "Hello!"
+  "content": "Hello!",
   "tts": "true"
 }
